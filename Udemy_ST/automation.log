@@ -1,0 +1,659 @@
+04/19/2021 11:11:11 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 11:11:11 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 11:11:24 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:11:24 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:11:32 AM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 11:11:32 AM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 11:11:45 AM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 11:11:45 AM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 11:11:53 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:11:53 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:11:53 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:11:53 AM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 11:11:53 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:12:06 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 11:12:06 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 11:12:19 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:12:19 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:12:23 AM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 11:12:41 AM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 11:12:41 AM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 11:12:54 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:12:54 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:13:02 AM - LoginPage - ERROR: Failed to get page title
+04/19/2021 11:13:02 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 11:13:10 AM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 11:13:10 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 11:13:18 AM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 11:13:30 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 11:13:30 AM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 11:13:30 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 11:13:38 AM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 11:13:38 AM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 11:13:38 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:13:38 AM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 11:13:38 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:14:20 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 11:14:20 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 11:14:33 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:14:33 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:14:41 AM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 11:14:41 AM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 11:14:54 AM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 11:14:54 AM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 11:15:02 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:15:02 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:15:02 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:15:02 AM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 11:15:02 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:15:15 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 11:15:15 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 11:15:28 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:15:28 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:15:36 AM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 11:15:36 AM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 11:15:49 AM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 11:15:49 AM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 11:15:57 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:15:57 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:15:57 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Learn Anything, On Your Schedule | Udemy
+04/19/2021 11:15:57 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 11:15:57 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+04/19/2021 11:15:57 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 11:15:57 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1618811157239.png
+04/19/2021 11:15:57 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 11:16:03 AM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 11:19:27 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span and  locatorType: xpath
+04/19/2021 11:19:27 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 11:19:40 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:19:40 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:19:48 AM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 11:19:48 AM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 11:20:01 AM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 11:20:01 AM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 11:20:09 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:20:09 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:20:09 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:20:09 AM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 11:20:09 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:20:16 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 11:22:59 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span and  locatorType: xpath
+04/19/2021 11:22:59 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 11:23:12 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:23:12 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:23:17 AM - LoginPage - INFO: Element found with locator: email--1 and  locatorType: id
+04/19/2021 11:23:17 AM - LoginPage - INFO: Sent data on element with locator: email--1 locatorType: id
+04/19/2021 11:23:27 AM - LoginPage - INFO: Element found with locator: id_password and  locatorType: id
+04/19/2021 11:23:27 AM - LoginPage - INFO: Sent data on element with locator: id_password locatorType: id
+04/19/2021 11:23:32 AM - LoginPage - INFO: Element found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:23:32 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:23:32 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:23:32 AM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 11:23:32 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:23:45 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span and  locatorType: xpath
+04/19/2021 11:23:45 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 11:23:58 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 11:23:58 AM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 11:24:03 AM - LoginPage - INFO: Element found with locator: email--1 and  locatorType: id
+04/19/2021 11:24:03 AM - LoginPage - INFO: Sent data on element with locator: email--1 locatorType: id
+04/19/2021 11:24:13 AM - LoginPage - INFO: Element found with locator: id_password and  locatorType: id
+04/19/2021 11:24:13 AM - LoginPage - INFO: Sent data on element with locator: id_password locatorType: id
+04/19/2021 11:24:18 AM - LoginPage - INFO: Element found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 11:24:18 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 11:24:18 AM - Util - INFO: Actual Text From Application Web UI --> :: Login | Udemy
+04/19/2021 11:24:18 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 11:24:18 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+04/19/2021 11:24:18 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 11:24:18 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1618811658913.png
+04/19/2021 11:24:18 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 11:24:29 AM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 11:24:42 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 11:24:42 AM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 11:24:42 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 11:24:42 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618811682526.png
+04/19/2021 11:24:42 AM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 11:24:42 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:24:42 AM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 11:24:42 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 11:24:50 AM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 12:39:10 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span and  locatorType: xpath
+04/19/2021 12:39:10 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 12:39:23 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 12:39:23 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 12:39:28 PM - LoginPage - INFO: Element found with locator: email--1 and  locatorType: id
+04/19/2021 12:39:29 PM - LoginPage - INFO: Sent data on element with locator: email--1 locatorType: id
+04/19/2021 12:39:39 PM - LoginPage - INFO: Element found with locator: id_password and  locatorType: id
+04/19/2021 12:39:39 PM - LoginPage - INFO: Sent data on element with locator: id_password locatorType: id
+04/19/2021 12:39:44 PM - LoginPage - INFO: Element found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 12:39:44 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 12:39:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 12:39:44 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 12:39:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 12:39:57 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span and  locatorType: xpath
+04/19/2021 12:39:57 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a/span locatorType: xpath
+04/19/2021 12:40:10 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 12:40:10 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 12:40:18 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 12:40:18 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 12:40:31 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 12:40:31 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 12:40:39 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3] and  locatorType: xpath
+04/19/2021 12:40:39 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3] locatorType: xpath
+04/19/2021 12:40:39 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 12:40:39 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 12:40:39 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 12:40:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 12:40:39 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 12:40:42 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:19:27 PM - LoginPage - INFO: Element found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:19:29 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:19:42 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:19:42 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:19:47 PM - LoginPage - INFO: Element found with locator: email--1 and  locatorType: id
+04/19/2021 01:19:47 PM - LoginPage - INFO: Sent data on element with locator: email--1 locatorType: id
+04/19/2021 01:19:52 PM - LoginPage - INFO: Element found with locator: id_password and  locatorType: id
+04/19/2021 01:19:52 PM - LoginPage - INFO: Sent data on element with locator: id_password locatorType: id
+04/19/2021 01:19:57 PM - LoginPage - INFO: Element found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:20:00 PM - LoginPage - INFO: Clicked on element with locator: submit-id-submit locatorType: id
+04/19/2021 01:20:00 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:20:00 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:20:00 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:20:05 PM - LoginPage - INFO: Element found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:20:08 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:20:21 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:20:21 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:20:30 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:20:30 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:20:37 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:20:37 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:20:42 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:20:42 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:20:42 PM - LoginPage - ERROR: Failed to get page title
+04/19/2021 01:20:42 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 01:20:42 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 01:20:42 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:20:42 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:20:52 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:20:52 PM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 01:20:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:20:52 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 01:20:52 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:20:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:20:52 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:20:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:20:57 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:23:32 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:23:32 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:23:45 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:23:45 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:23:53 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:23:53 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:23:59 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:23:59 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:24:02 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:24:02 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:24:02 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:24:02 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:24:39 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:24:39 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:24:52 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:24:52 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:25:00 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:25:00 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:25:08 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:25:08 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:25:16 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:25:16 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:25:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:25:16 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:25:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:25:24 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:25:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:25:24 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:25:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:25:31 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:26:04 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:26:04 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:26:19 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:26:19 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:26:20 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:26:23 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:26:28 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:26:28 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:26:28 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:26:28 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:28:08 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:28:08 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:28:21 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:28:21 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:28:29 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:28:29 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:28:37 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:28:37 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:28:45 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:28:45 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:28:46 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:28:46 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:28:46 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:28:54 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:28:54 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:28:54 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:28:54 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:29:02 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:29:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:29:53 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:29:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:30:02 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:30:02 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:30:02 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:30:02 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:30:10 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:34:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:34:22 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:34:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:34:31 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:34:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:34:31 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:34:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:34:39 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:35:09 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:35:09 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:35:09 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:35:22 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 01:35:22 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 01:35:35 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:35:35 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:35:43 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:35:43 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:35:51 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:35:51 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:36:00 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:36:00 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:36:00 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Learn Anything, On Your Schedule | Udemy
+04/19/2021 01:36:00 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:36:00 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+04/19/2021 01:36:00 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 01:36:00 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1618819560018.png
+04/19/2021 01:36:00 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:36:11 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:36:24 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:36:24 PM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 01:36:24 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:36:24 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618819584261.png
+04/19/2021 01:36:24 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:36:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:36:24 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:36:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:36:32 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:38:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:38:18 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:38:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:38:31 PM - LoginPage - INFO: Element not found with locator: udlite-btn udlite-btn-medium udlite-btn-secondary udlite-heading-sm and  locatorType: class
+04/19/2021 01:38:31 PM - LoginPage - INFO: Cannot click on the element with locator: udlite-btn udlite-btn-medium udlite-btn-secondary udlite-heading-sm locatorType: class
+04/19/2021 01:38:44 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a and  locatorType: xpath
+04/19/2021 01:38:44 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[2]/div[1]/div[3]/form/div[2]/div/div/a locatorType: xpath
+04/19/2021 01:38:52 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 01:38:52 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 01:39:00 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 01:39:00 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 01:39:08 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 01:39:08 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 01:39:08 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Learn Anything, On Your Schedule | Udemy
+04/19/2021 01:39:08 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:39:08 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+04/19/2021 01:39:08 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 01:39:08 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1618819748739.png
+04/19/2021 01:39:08 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:39:19 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:39:32 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:39:32 PM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 01:39:32 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:39:32 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618819772493.png
+04/19/2021 01:39:32 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:39:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:39:32 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:39:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:39:40 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:45:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:45:38 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:45:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:45:46 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:45:46 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:45:46 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 01:45:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 01:45:46 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:45:48 PM - LoginPage - INFO: Element appeared on the web page
+04/19/2021 01:46:01 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:46:01 PM - LoginPage - INFO: Element not present with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div locatorType: xpath
+04/19/2021 01:46:01 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:46:01 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618820161773.png
+04/19/2021 01:46:01 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:46:01 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:46:01 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:46:01 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:46:09 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:49:05 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:49:05 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:49:05 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:49:14 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:49:14 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:49:14 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 01:49:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 01:49:14 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:49:26 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:49:39 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 01:49:39 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 01:49:39 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:49:39 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618820379114.png
+04/19/2021 01:49:39 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:49:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:49:39 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:49:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:49:47 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 01:54:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:54:47 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:54:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:54:54 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:54:54 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:54:54 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 01:54:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 01:54:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:55:05 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:55:18 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 01:55:18 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 01:55:18 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 01:55:18 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618820718568.png
+04/19/2021 01:55:18 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 01:55:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:55:18 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:55:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:55:26 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 01:57:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:57:41 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 01:57:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:57:49 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:57:49 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 01:57:49 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 01:57:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 01:57:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 01:58:04 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 01:58:17 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 01:58:17 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 01:58:17 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 01:58:17 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 01:58:17 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:58:17 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 01:58:17 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 01:58:25 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[9]/a/div and  locatorType: xpath
+04/19/2021 03:51:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:51:41 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 03:51:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:51:50 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 03:51:50 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 03:51:50 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 03:51:55 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 03:51:55 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 03:52:04 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 03:52:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 03:52:13 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 03:52:13 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:52:13 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 03:52:13 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:52:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:52:48 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 03:52:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:52:58 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 03:52:58 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 03:52:58 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 03:53:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 03:53:03 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 03:53:14 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 03:53:27 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 03:53:27 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 03:53:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 03:53:27 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 03:53:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 03:53:27 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 03:53:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 04:00:37 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 04:00:37 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 04:00:37 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 04:00:46 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 04:00:46 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 04:00:46 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 04:00:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 04:00:51 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 04:01:02 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 04:01:15 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 04:01:15 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 04:01:15 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 04:01:15 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 04:01:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 04:01:15 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 04:01:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:42:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:42:03 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 05:42:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:42:13 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 05:42:13 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 05:42:13 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 05:42:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 05:42:18 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 05:42:28 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 05:42:41 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 05:42:41 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 05:42:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 05:42:41 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 05:42:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:42:41 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 05:42:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:45:57 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:45:57 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 05:45:57 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:46:09 PM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 05:46:09 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 05:46:09 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/19/2021 05:46:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/19/2021 05:46:14 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 05:46:25 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 05:46:38 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 05:46:38 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 05:46:38 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login Verification
+04/19/2021 05:46:38 PM - TestStatus - INFO: test_t2validLogin ### TEST SUCCESSFUL
+04/19/2021 05:46:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:46:39 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 05:46:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:47:20 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:47:20 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 05:47:20 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:47:30 PM - Util - INFO: Actual Text From Application Web UI --> :: Login | Udemy
+04/19/2021 05:47:30 PM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/19/2021 05:47:30 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+04/19/2021 05:47:35 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 05:47:35 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1618834655128.png
+04/19/2021 05:47:35 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 05:47:45 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 05:47:58 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 05:47:58 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 05:47:58 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 05:47:58 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Login Verification.1618834678777.png
+04/19/2021 05:47:58 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 05:47:58 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 05:47:58 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 05:47:58 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 06:47:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 06:47:45 PM - LoginTests - INFO: test_t2validLogin started
+04/19/2021 06:47:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 06:47:58 PM - LoginPage - INFO: Element not found with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a and  locatorType: xpath
+04/19/2021 06:47:58 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[1]/div[1]/div[3]/div[6]/a locatorType: xpath
+04/19/2021 06:48:11 PM - LoginPage - INFO: Element not found with locator: email--1 and  locatorType: id
+04/19/2021 06:48:11 PM - LoginPage - INFO: Cannot send data on the element with locator: email--1 locatorType: id
+04/19/2021 06:48:16 PM - LoginPage - INFO: Element not found with locator: id_password and  locatorType: id
+04/19/2021 06:48:16 PM - LoginPage - INFO: Cannot send data on the element with locator: id_password locatorType: id
+04/19/2021 06:48:21 PM - LoginPage - INFO: Element not found with locator: submit-id-submit and  locatorType: id
+04/19/2021 06:48:21 PM - LoginPage - INFO: Cannot click on the element with locator: submit-id-submit locatorType: id
+04/19/2021 06:48:21 PM - LoginPage - ERROR: Failed to get page title
+04/19/2021 06:48:26 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+04/19/2021 06:48:26 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 06:48:26 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/19/2021 06:48:26 PM - LoginPage - INFO: Element not appeared on the web page
+04/19/2021 06:48:36 PM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/19/2021 06:48:36 PM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/19/2021 06:48:36 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Login Verification
+04/19/2021 06:48:36 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/19/2021 06:48:36 PM - TestStatus - ERROR: test_t2validLogin ### TEST FAILED
+04/19/2021 06:48:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/19/2021 06:48:36 PM - LoginTests - INFO: test_t1invalidLogin started
+04/19/2021 06:48:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 12:53:45 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 12:53:45 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 12:53:45 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 12:53:55 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 12:53:55 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 12:53:55 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 12:54:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 12:54:00 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/20/2021 12:54:10 AM - LoginPage - INFO: Element not appeared on the web page
+04/20/2021 12:54:23 AM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/20/2021 12:54:23 AM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/20/2021 01:00:15 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:00:15 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:00:15 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:00:26 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:00:26 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:00:26 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:00:31 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:00:31 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/20/2021 01:00:41 AM - LoginPage - INFO: Element not appeared on the web page
+04/20/2021 01:00:54 AM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/20/2021 01:00:54 AM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/20/2021 01:04:05 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:04:05 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:04:05 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:04:17 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:04:17 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:04:17 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:04:22 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:04:22 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/20/2021 01:04:32 AM - LoginPage - INFO: Element not appeared on the web page
+04/20/2021 01:04:45 AM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/20/2021 01:04:45 AM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/20/2021 01:08:45 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:08:45 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:08:45 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:08:55 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:08:55 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:08:55 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:09:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:09:00 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/20/2021 01:09:11 AM - LoginPage - INFO: Element not appeared on the web page
+04/20/2021 01:09:24 AM - LoginPage - INFO: Element not found with locator: u681-popper-trigger--19 and  locatorType: id
+04/20/2021 01:09:24 AM - LoginPage - INFO: Element not present with locator: u681-popper-trigger--19 locatorType: id
+04/20/2021 01:37:34 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:37:34 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:37:34 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:37:34 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:37:34 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:37:34 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:37:39 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:43:22 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:43:22 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:43:22 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:43:22 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:43:22 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:43:22 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:43:27 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:43:38 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:43:38 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:43:38 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:43:38 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:43:38 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:43:38 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:43:43 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:44:30 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:44:30 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:44:30 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:44:30 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:44:30 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:44:30 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:44:35 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 01:44:46 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:44:46 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 01:44:46 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 01:44:46 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:44:46 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 01:44:46 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 01:44:51 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 02:01:23 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 02:01:23 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 02:01:23 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 02:01:23 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 02:01:23 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 02:01:23 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 02:01:28 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+04/20/2021 02:01:51 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 02:01:51 AM - LoginTests - INFO: test_t2validLogin started
+04/20/2021 02:01:51 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/20/2021 02:01:51 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 02:01:51 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+04/20/2021 02:01:51 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/20/2021 02:01:56 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+05/10/2021 12:43:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:43:48 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:43:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:43:49 AM - Util - INFO: Actual Text From Application Web UI --> :: Access to this page has been denied.
+05/10/2021 12:43:49 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:43:49 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+05/10/2021 12:43:54 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+05/10/2021 12:43:54 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1620587634002.png
+05/10/2021 12:44:00 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:44:00 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:44:00 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:44:00 AM - Util - INFO: Actual Text From Application Web UI --> :: Access to this page has been denied.
+05/10/2021 12:44:00 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:44:00 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+05/10/2021 12:44:05 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+05/10/2021 12:44:05 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1620587645444.png
+05/10/2021 12:44:33 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:44:33 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:44:33 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:44:33 AM - Util - INFO: Actual Text From Application Web UI --> :: Access to this page has been denied.
+05/10/2021 12:44:33 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:44:33 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+05/10/2021 12:44:38 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: Title Verification
+05/10/2021 12:44:38 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Sanskar\PycharmProjects\Udemy_ST\base\../screenshots/Title Verification.1620587678387.png
+05/10/2021 12:45:19 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:45:19 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:45:19 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:45:19 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:45:19 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:45:19 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/10/2021 12:45:24 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+05/10/2021 12:45:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:45:48 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:45:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:45:48 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:45:48 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:45:48 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/10/2021 12:45:53 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+05/10/2021 12:48:50 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:48:50 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:48:50 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:48:50 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:48:50 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:48:50 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/10/2021 12:48:55 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+05/10/2021 12:49:19 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:49:19 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:49:19 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:49:19 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:49:19 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:49:19 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/10/2021 12:49:24 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification
+05/10/2021 12:49:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:49:48 AM - LoginTests - INFO: test_t2validLogin started
+05/10/2021 12:49:48 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+05/10/2021 12:49:48 AM - Util - INFO: Actual Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:49:48 AM - Util - INFO: Expected Text From Application Web UI --> :: Online Courses - Anytime, Anywhere | Udemy
+05/10/2021 12:49:48 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/10/2021 12:49:53 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification

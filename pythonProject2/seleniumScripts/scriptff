@@ -1,0 +1,8 @@
+from selenium import webdriver
+
+driver = webdriver.Firefox()
+
+driver.get("http://www.google.com")
+myPageTitle = driver.title
+print(myPageTitle)
+
